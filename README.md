@@ -14,7 +14,7 @@ neon orchid glows, electric pinks and icy blues.
 ``` r
 # Install from GitHub
 # install.packages("remotes")
-remotes::install_github("YOURUSERNAME/euphoria")
+remotes::install_github("samracuna/euphoria")
 ```
 
 ## The Palette
