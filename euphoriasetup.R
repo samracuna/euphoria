@@ -104,6 +104,12 @@ devtools::build_readme()
 # ------------------------------------------------------------
 # 8. Initialise git
 # ------------------------------------------------------------
+usethis::use_git_config(
+  user.name  = "Sam Acuna",
+  user.email = "samruthacuna@gmail.com"
+)
+
+
 usethis::use_git()
 # When prompted: commit everything, yes restart
 
