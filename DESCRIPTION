@@ -1,0 +1,26 @@
+Package: euphoria
+Title: ggplot2 Themes and Color Palette Inspired by HBO's Euphoria
+Version: 0.1.0
+Authors@R: 
+    person("Sam", "Acuna", email = "samruthacuna@gmail.com", role = c("aut", "cre"))
+Description: Provides a ggplot2 theme and color palette inspired by the 
+    visual aesthetic of HBO's television show Euphoria. Features deep purple-black 
+    backgrounds, neon orchid accents, and character-named color palettes 
+    for use in data visualizations.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    ggplot2,
+    grDevices
+Suggests:
+    showtext,
+    hexSticker,
+    pkgdown,
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+URL: https://github.com/samracuna/euphoria
+BugReports: https://github.com/samracuna/euphoria/issues
