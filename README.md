@@ -3,7 +3,7 @@
 
 # euphoria <img src="man/figures/logo.png" align="right" height="139" />
 
-> *“I just want people to know that you can be whoever you want.”*
+> *“Is this f**** plot about us?”*
 
 **{euphoria}** is a ggplot2 theme and color palette package inspired by
 the visual aesthetic of HBO’s Euphoria — deep purple-black backgrounds,
